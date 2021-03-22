@@ -54,7 +54,7 @@
             android:imeOptions="actionDone"
             android:importantForAutofill="no"
             android:includeFontPadding="false"
-            android:fontFamily="@font/ubuntu_italic"
+            android:fontFamily="@font/ubuntu_regular"
             android:inputType="text"
             android:textColor="@color/colorWhite"
             android:layout_marginLeft="@dimen/_12sdp">
